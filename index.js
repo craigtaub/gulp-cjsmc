@@ -1,5 +1,5 @@
 var through = require("through2");
-var cjsmc = require('../cjsmc/lib/buildTemplates');
+var cjsmc = require('cjsmc/lib/buildTemplates');
 
 module.exports = function() {
   return through.obj(function(file, encoding, callback) {
