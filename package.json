@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "through2": "^2.0.1",
-    "cjsc": "^1.1.0"
+    "cjsmc": "^1.1.0"
   }
 }
