@@ -5,8 +5,12 @@
   "main": "index.js",
   "author": "Craig Taub <craigtaub@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/craigtaub/gulp-cjsmc.git"
+  },
   "devDependencies": {
     "through2": "^2.0.1",
-    "cjsc": "^1.0.4"
+    "cjsc": "^1.1.0"
   }
 }
