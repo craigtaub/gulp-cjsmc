@@ -7,6 +7,6 @@
   "license": "ISC",
   "devDependencies": {
     "through2": "^2.0.1",
-    "cjsc": "^1.0.4",
+    "cjsc": "^1.0.4"
   }
 }
