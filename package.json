@@ -2,6 +2,7 @@
   "name": "gulp-cjsmc",
   "version": "1.0.1",
   "description": "Gulp Plugin for cjsmc",
+  "keywords": "gulpplugin",
   "main": "index.js",
   "author": "Craig Taub <craigtaub@gmail.com>",
   "license": "ISC",
